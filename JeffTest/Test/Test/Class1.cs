@@ -17,5 +17,10 @@ namespace Test
         {
 
         }
+        
+        public void MoarTests()
+        {
+
+        }
     }
 }
