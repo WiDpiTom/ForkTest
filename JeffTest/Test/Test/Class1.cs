@@ -8,7 +8,7 @@ namespace Test
 {
     public class Class1
     {
-        public void Test21()
+        public void Test2()
         {
             
         }
